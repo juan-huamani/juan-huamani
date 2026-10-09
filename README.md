@@ -8,9 +8,9 @@
 
 ## 👋 Hola, soy Juan
 
-Más de 5 años diseñando, manteniendo y modernizando sistemas backend con **PHP/Laravel** y **Node.js/NestJS**. Me enfoco en APIs REST, Clean Architecture y en migrar sistemas legacy hacia arquitecturas más mantenibles y escalables.
+Más de 5 años diseñando, manteniendo y modernizando sistemas backend con **PHP/Laravel** y **Node.js/NestJS**. Me enfoco en APIs REST, Clean Architecture y en migrar sistemas legacy hacia arquitecturas más mantenibles y escalables. Complemento mi perfil con frontend en **Next.js** y Vue.js.
 
-*English: Backend engineer with 5+ years of experience building and modernizing REST APIs and legacy systems with PHP/Laravel and Node.js/NestJS.*
+*English: Backend engineer with 5+ years of experience building and modernizing REST APIs and legacy systems with PHP/Laravel and Node.js/NestJS, with frontend experience in Next.js.*
 
 ---
 
@@ -23,6 +23,10 @@ Más de 5 años diseñando, manteniendo y modernizando sistemas backend con **PH
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 **Datos**&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
