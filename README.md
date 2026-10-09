@@ -4,13 +4,15 @@
 
 **Ingeniero de Sistemas e Informática** · Perú 🇵🇪
 
+[Portafolio](https://juan-huamani.github.io/) · [LinkedIn](https://www.linkedin.com/in/juanhuamani/) · [Correo](mailto:juan.huamani.code@gmail.com)
+
 </div>
 
 ## 👋 Hola, soy Juan
 
 Más de 5 años diseñando, manteniendo y modernizando sistemas backend con **PHP/Laravel** y **Node.js/NestJS**. Me enfoco en APIs REST, Clean Architecture y en migrar sistemas legacy hacia arquitecturas más mantenibles y escalables. Complemento mi perfil con frontend en **Next.js** y Vue.js.
 
-*English: Backend engineer with 5+ years of experience building and modernizing REST APIs and legacy systems with PHP/Laravel and Node.js/NestJS, with frontend experience in Next.js.*
+*English: Backend engineer with 5+ years of experience building and modernizing REST APIs and legacy systems with PHP/Laravel and Node.js/NestJS, complemented by frontend work in Next.js and Vue.js.*
 
 ---
 
@@ -46,7 +48,7 @@ Más de 5 años diseñando, manteniendo y modernizando sistemas backend con **PH
 ## 💼 Experiencia destacada
 
 - **MINEDU · UMC** (2024 – 2026): backend con NestJS, PostgreSQL y Redis; modernización de sistemas legacy hacia Clean Architecture.
-- **SENATI** (Instructor): enseñanza de ingeniería de software y mentoría a más de 30 estudiantes en proyectos funcionales.
+- **SENATI** (Instructor, 2023 – 2025): enseñanza de ingeniería de software y mentoría a más de 30 estudiantes en proyectos funcionales.
 - **Municipalidad Provincial de Maynas**: reducción del 20% en los tiempos de respuesta de trámites mediante automatización.
 - **INVENTALO**: automatización de inscripciones y certificados, con 80% menos de trabajo manual.
 
@@ -61,11 +63,17 @@ Más de 5 años diseñando, manteniendo y modernizando sistemas backend con **PH
 
 ---
 
+## 🚀 Proyectos
+
+- **[Portafolio personal](https://juan-huamani.github.io/)**: sitio con Next.js y TypeScript, exportado como sitio estático y desplegado en GitHub Pages con GitHub Actions. [Ver repositorio](https://github.com/juan-huamani/juan-huamani.github.io).
+
+---
+
 ## 📫 Contacto
 
+- Portafolio: [juan-huamani.github.io](https://juan-huamani.github.io/)
+- LinkedIn: [juanhuamani](https://www.linkedin.com/in/juanhuamani/)
 - Correo: [juan.huamani.code@gmail.com](mailto:juan.huamani.code@gmail.com)
 - Disponible para posiciones backend remotas.
-
-<!-- LinkedIn: agrega aquí tu enlace, por ejemplo: - LinkedIn: [tu-perfil](https://www.linkedin.com/in/tu-perfil) -->
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=90&section=footer)
